@@ -1,2 +1,4 @@
-# r3edis-kafka-consumer
+# reedis-kafka-consumer
+PRIVATE REPO
+REQUEST ACCESS
 Request for access
